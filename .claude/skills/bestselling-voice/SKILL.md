@@ -158,7 +158,7 @@ predicament, working free.
 
 - Open chapters at the human predicament — the insomniac at 3 a.m., the
   addict's craving hour, Paul under house arrest — not at the exposition.
-  The burden table in book-framework.md is the chapter-opening menu.
+  The burden table in BOOK-FRAMEWORK.md is the chapter-opening menu.
 - The doctrine arrives *through* the person and the text, named after it is
   felt. (This is the sermons' native move — Assembled Terminology vs. Lived
   Reality — promoted to structural law.)
@@ -235,7 +235,7 @@ something to fill" (Laube).
   a lecturing "you" (like-a-human's pronoun-stance thresholds apply).
 - Chapter titles carry the felt-need promise, not the outline label. "The War
   in the Dark" sells; "Romans 7:13–25 Exegesis" does not. The draft chapter
-  map in book-framework.md already has this right — protect it.
+  map in BOOK-FRAMEWORK.md already has this right — protect it.
 - Honesty is the differentiator on this shelf (Yancey). Name the doubt, the
   relapse, the silent years — the reader trusts the writer who has been in the
   dark, and only a trusted voice can walk them toward dawn.

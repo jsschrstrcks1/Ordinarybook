@@ -2,8 +2,9 @@
 
 **Soli Deo Gloria.** Pointer only — household law is not duplicated here.
 
-Book-writing repo. Canonical home of the **`bestselling-voice`** skill and its
-research base.
+Book-writing repo — home of ***The Night Is Far Gone*** (a journey through
+Romans) and canonical home of the **`bestselling-voice`** skill and its
+research base. Source sermons live in the `Romans` repo.
 
 ## Read order (mandatory)
 
@@ -29,9 +30,10 @@ node open-claw-stuff/admin/library.mjs preflight --query "<task>" --patron <your
 
 | Resource | Path |
 |----------|------|
+| **Book framework** | [`BOOK-FRAMEWORK.md`](BOOK-FRAMEWORK.md) (*The Night Is Far Gone* — structure, chapter map, burden table) |
 | **Bestselling-voice skill (canonical)** | `.claude/skills/bestselling-voice/SKILL.md` |
 | Research evidence base | `.claude/bestselling-voice-research.md` |
-| Book framework (current draft home) | `Romans/.claude/book-framework.md` (*The Night Is Far Gone*) |
+| Source sermon corpus | `Romans` repo (465+ manuscripts; sermon-map + voice-dna live there) |
 
 **Guard-stack resolution:** `bestselling-voice` binds `like-a-human`,
 `voice-audit`, `voice-dna` (canonical in `Romans/.claude/skills/`) and
