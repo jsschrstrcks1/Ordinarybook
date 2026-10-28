@@ -1,0 +1,6 @@
+{
+  "_about": "The parts of Ordinarybook the manual describes, in order. Authored by hand; add a capability's slug to a section once it is written (Project-Sophos admin/change-record.mjs reflow --repo .).",
+  "title": "Ordinarybook: what it can do, and how it got here",
+  "intro": "An empty placeholder repository for a future book called Ordinary Book; so far it holds only a placeholder file and the standard household agent files.",
+  "sections": []
+}
