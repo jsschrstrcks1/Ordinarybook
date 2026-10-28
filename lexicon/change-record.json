@@ -1,0 +1,24 @@
+{
+  "_about": "How this repository's change record is judged, tuned to Ordinarybook (Project-Sophos lexicon/change-record-repos.json). Every commit that changes files outside exempt carries a change entry saying why it mattered and what it enables. Written by Project-Sophos admin/change-record-deploy.mjs; change the profile there and rerun it. Doc: Project-Sophos docs/lexicon/CHANGE-RECORD.md.",
+  "repo": "Ordinarybook",
+  "partition": "public",
+  "granularity": "commit",
+  "required_from": "2026-10-28T03:46:07Z",
+  "exempt": [
+    ".tekton/",
+    ".memory/",
+    ".receipts/",
+    ".household-library/",
+    ".noesis/",
+    "docs/generated/",
+    "lexicon/entities/change/",
+    "REASONING-LOG.md",
+    "ENGINEERING-LOG.md",
+    ".claude/skills/",
+    "placeholder.md"
+  ],
+  "catalog": {
+    "delta": "none"
+  },
+  "manual": "lexicon/MANUAL.md"
+}
